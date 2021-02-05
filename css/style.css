@@ -37,6 +37,8 @@ div{
 #red{
     background: #FF0000;
     text-align: right;
+}
+#red div{
     min-height: 150px;
     padding-left: 25px;
     padding-right: 25px;
@@ -45,9 +47,13 @@ div{
 #blue{
     background: #0000ff;
     text-align: left;
+}
+#blue div{
+    min-height: 150px;
     padding-left: 25px;
     padding-right: 25px;
 }
+
 
 /** yellow **/ 
 #yellow{
@@ -63,6 +69,11 @@ div{
     color: #000000;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
+#yellow div{
+    min-height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
 
 /** other colors **/
 #green{
@@ -72,12 +83,20 @@ div{
     padding-left: 25px;
     padding-right: 25px;
 }
+#green div{
+    min-height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
 
 /* closing */
 
 footer p{
     text-align: center;
+}
+footer div{
     padding-right: 10px;
     padding-bottom: 10px;
 }
+
 
