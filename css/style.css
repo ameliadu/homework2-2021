@@ -40,6 +40,8 @@ div{
 }
 #red div{
     min-height: 150px;
+    padding-top:25px;
+    padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
 }
@@ -50,6 +52,8 @@ div{
 }
 #blue div{
     min-height: 150px;
+    padding-top:25px;
+    padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
 }
@@ -71,6 +75,8 @@ div{
 }
 #yellow div{
     min-height: 150px;
+    padding-top:25px;
+    padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
 }
@@ -80,11 +86,14 @@ div{
     background: #008000;
     text-align: left;
     min-height: 150px;
+    padding-top:25px;
     padding-left: 25px;
     padding-right: 25px;
 }
 #green div{
     min-height: 150px;
+    padding-top:25px;
+    padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
 }
