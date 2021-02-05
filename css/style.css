@@ -8,11 +8,11 @@ body{
 h1{
     font-size: 64px;
     text-align: center;
-    padding: 10px
+    padding: 10px;
 }
 h2{
     font-size: 32px;
-    text-shadow: 4pxx 4px 2px #808080;
+    text-shadow: 4px 4px 2px #808080;
 }
 p{
     font-size: 24px;
@@ -22,16 +22,14 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 550 px;
+    width: 550px;
     height: auto;
-    padding-left: 25px;
-    padding-right: 25px;
 }
 
 div{
     min-height: 150px;
     padding-left: 25px;
-    padding-right: 25px
+    padding-right: 25px;
 }
 
 
@@ -39,16 +37,24 @@ div{
 #red{
     background: #FF0000;
     text-align: right;
+    min-height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
+
 #blue{
     background: #0000ff;
     text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 /** yellow **/ 
 #yellow{
     background: #ffff00;
     text-align: right;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 #yellow p{
     color: #000000;
@@ -62,12 +68,16 @@ div{
 #green{
     background: #008000;
     text-align: left;
+    min-height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 /* closing */
 
 footer p{
     text-align: center;
-    padding: 0px 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
 }
 
